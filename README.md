@@ -1,7 +1,5 @@
 # SafeSteps - Elderly fall? We catch!
 
----
-
 This is the project we have done for iNTUition 2023 Hackathon organised by IEEE NTU Student Branch.
 You can check out our [DevPost writeup](https://devpost.com/software/safesteps-kcevrm) on our project in the competition page. 
 
@@ -10,7 +8,6 @@ This repository only focuses on developing the deep learning model used in the A
 You can check out our presentation slides [here](https://docs.google.com/presentation/d/e/2PACX-1vSJeOw8KLRakesKPEGnFp0DGCtCOXtDSc4LEjiDSzc49gd4yT7DtWOCcceC3zgQa_U1ViXx2yKjNA4j/pub?start=false&loop=false&delayms=3000&slide=id.p).
 
 ## Below is a snippet of our writeup in Devpost:
----
 What it does:
 - SafeSteps is a wearable IoT device that can be strapped to the arm
 - Detects when the wearer falls
